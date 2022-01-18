@@ -55,7 +55,7 @@ At this point you can copy that into a text editor and modify the two fields men
 
 Then use a program like postman and do a post request to this endpoint
 
-`https://plex.tv/api/v2/user/settings?X-Plex-Client-Identifier=(machine or client ID)&X-Plex-Token=(token)P3&X-Plex-Language=e`
+`https://plex.tv/api/v2/user/settings?X-Plex-Client-Identifier=(machine or client ID)&X-Plex-Token=(token)&X-Plex-Language=e`
 
 Then your device is updated. Change the machine/client ID out for each device you want to update and now you can control the layout and settings of any device on your account remotely
 
