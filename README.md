@@ -1,5 +1,5 @@
 # Plex-Player-Settings-API-Docs
-This is to document the Plex player settings and API calls to hopefully find a way to control device quality settings.
+This is to document the Plex player settings and API calls to hopefully find an easy way to control device quality settings for all connected devices.
 
 ### There are many steps that are required to replicate the API calls for plex player settings and those will be outlined below:
 
