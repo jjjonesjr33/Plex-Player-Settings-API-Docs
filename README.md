@@ -25,7 +25,7 @@ This will return a list of every single device connected to your account cool ri
 
 ##### From this point we can now get into the fun stuff like pulling the device settings for every single client connected to your account 
 
-`https://plex.tv/api/v2/user/settings?X-Plex-Client-Identifier=(machine or client ID)&X-Plex-Token=(token)P3&X-Plex-Language=e`
+`https://plex.tv/api/v2/user/settings?X-Plex-Client-Identifier=(machine or client ID)&X-Plex-Token=(token)&X-Plex-Language=e`
 
 I won't post the output due to lots of senstive data in that but for our purposes there are only two lines that are really important
 
